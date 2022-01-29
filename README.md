@@ -1,12 +1,8 @@
-# Olympics Datathon - A Data Story-Telling Competition
+# Week 5 ML Hackathon
 
-## Welcome to the Datathon
+## Welcome to the Hackathon
 
-The Olympics Datathon is designed to be an entry level, language-agnostic mini "hackathon". The focus of the datathon will be the explorative data analysis - or as we like to call it data storytelling - of the given Olympics dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day datathon offers an interesting dataset to explore, guidance along the way and free pizza!
-
-**Disclaimer**: This is an EDA and not a ML competition.
-
-*Dataset will be published on October 16th.
+*Dataset will be published on February 12th.
 
 *Spotted a mistake, dead link, or have suggestions for improvements? Message us using the [links below](#contact).*
 
@@ -16,7 +12,7 @@ The Olympics Datathon is designed to be an entry level, language-agnostic mini "
   * [Important First Steps](#important-first-steps)
   * [Event Timeline](#event-timeline)
 * [Competition Details](#competition-details)
-  * [Data Story-Telling Question](#data-story-telling-question)
+  * [Problem Statement](#problem-statement)
   * [Resources](#resources)
   * [Submission](#submission)
   * [Judging and Winning](#Judging-and-Winning)
@@ -30,17 +26,17 @@ The Olympics Datathon is designed to be an entry level, language-agnostic mini "
 
 ### Important First Steps
 
-1. Make sure you have registered on the [Google form](). Otherwise, you will not be invited/accepted to the Microsoft Teams group.
-2. Join the [Datathon Teams Group](https://teams.microsoft.com/l/team/19%3aVRNugWwFSGZDR5W0mMzRDXogLk8o9oVkKIKUOo6Hm5Q1%40thread.tacv2/conversations?groupId=f388c915-9b20-4a56-9d3b-01b8070fdc6e&tenantId=09bacfbd-47ef-4465-9265-3546f2eaf6bc) and turn on notifications to stay up to date. The hybrid session will be hosted there.
-3. Click 'Going' on the datathon's [Facebook event]() and invite your friends if you want.
+1. Make sure you have registered on the [Google form](https://forms.gle/Mdb7qhXZWdPEABdz7). Otherwise, you will not be invited/accepted to the Microsoft Teams group.
+2. Join the [Week 5 ML Hackathon Teams Group]() and turn on notifications to stay up to date.
+3. Click 'Going' on the [Facebook event]() and invite your friends if you want.
 
-All other relevant details should be available on this page. If you have any questions feel free to reach out by using the contact links [below](#contact). Viel Spass! 
+All other relevant details should be available on this page. If you have any questions feel free to reach out by using the contact links [below](#contact). Viel Spass!
 
 ### Event Timeline
 
-All events on October 16th will be held **both** in-person as well as online. For in-person attendees, please join us in room `OC0.01`. Online attendees can follow the in-person event on the 'General' channel on Teams. We strongly encourage anyone who has the chance to participate in the in-person event.
+The event will take place in [S0.11](https://warwick.ac.uk/services/sg/spa/centraltimetabling/roominformation/centrallytimetabledrooms/capacity/s011/). Please make sure to show up on time. After the dataset release you will have 2 weeks to make a submission. On February 22nd we will also host an online drop-in session on Teams where you can ask us for feedback before you make a submission.
 
-*Again, the dataset will be published on October 16th.*
+*Again, the dataset will be published on February 12th.*
 
 | Date         | Time  | Event                                                 |
 |--------------|-------|-------------------------------------------------------|
@@ -52,25 +48,17 @@ All events on October 16th will be held **both** in-person as well as online. Fo
 
 ## Competition Details
 
-### Data Story-Telling Question
+### Problem Statement
 
 Will be published on October 16th.
 
 ### Resources
 
-- **[Google colab](https://colab.research.google.com/drive/13HZpzjbAf9_MmwazE587eNhMCzWJcHXf?usp=sharing) skeleton code**
-- [Python for data science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
-- [R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
+- **[Google colab]() skeleton code**
 
 ### Submission
 
-Submissions should be sent to [hackathon@wdss.io](mailto:hackathon@wdss.io). We accept any formats!
-
-The competition will run from **6pm on Saturday the 16th October** to **6pm on Saturday the 23rd October**. No preference will be given to early entrants.
-
 ### Judging and Winning
-
-We will judge submissions based on the insights they derive. If you can tell a story about the data with basic code, but elaborate observations that's actually slightly better than a super technically advanced submission with no elaborations at all. We will be looking for a good balance between code, visualizations and elaborations.
 
 The winner/winning team will receive a shoutout on our [social media](#contact) accounts (including LinkedIn if you wish so). We will also link to your solution from this [GitHub](https://github.com/warwickdatasciencesociety) page.
 
@@ -80,7 +68,7 @@ The winner/winning team will receive a shoutout on our [social media](#contact) 
 
 #### Is this a team or individual competition?
 
-This is up to you to decide. If you would like to be part of a team, please contact Valentin Kodderitzsch on MS teams. We will try to our best to allocate teams of up to 4 people based on each participant's skill level. We will also be discussing teams during the Datathon introduction workshop which will be held on October 16th 2021 at 3pm in `OC0.01`.
+This is up to you to decide. If you would like to be part of a team, please contact Valentin Kodderitzsch on MS teams. We will try to our best to allocate teams of up to 4 people based on each participant's skill level. We will also be discussing teams during the Hackathon introduction workshop which will be held on February 12th 2022 at 3pm in [S0.11](https://warwick.ac.uk/services/sg/spa/centraltimetabling/roominformation/centrallytimetabledrooms/capacity/s011/).
 
 #### I've improved my data story-telling submission since last submitting. Can I resubmit?
 
@@ -88,10 +76,10 @@ No problem. Simply email [hackathon@wdss.io](mailto:hackathon@wdss.io) and expla
 
 ### Getting Help
 
-We will provide help throughout the datathon in a number of ways:
-- Most help will be provided during the workshop on October 16th
-- After the workshop you will find help by messaging the 'Get Help' channel on [Teams](https://teams.microsoft.com/l/team/19%3aVRNugWwFSGZDR5W0mMzRDXogLk8o9oVkKIKUOo6Hm5Q1%40thread.tacv2/conversations?groupId=f388c915-9b20-4a56-9d3b-01b8070fdc6e&tenantId=09bacfbd-47ef-4465-9265-3546f2eaf6bc)
-
+We will provide help throughout the hackathon in a number of ways:
+- Most help will be provided during the workshop on February 12th
+- After the workshop you will find help by messaging the 'Get Help' channel on [Teams]()
+- We will also host an online drop-in session on February 22nd
 
 ### Contact
 
@@ -105,8 +93,3 @@ This hackathon was written and is primarily managed by Valentin Kodderitzsch. If
 - [Linkedin](https://link.wdss.io/linkedin)
 - [Instagram](https://link.wdss.io/instagram)
 - [YouTube](https://link.wdss.io/youtube)
-
-#### Warwick Statistics Society
-
-- [Facebook](https://www.facebook.com/WarwickStatsSociety)
-- [Linkedin](https://www.linkedin.com/company/warwickstatisticssociety/)
