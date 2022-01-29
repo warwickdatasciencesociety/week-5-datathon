@@ -38,13 +38,14 @@ The event will take place in [S0.11](https://warwick.ac.uk/services/sg/spa/centr
 
 *Again, the dataset will be published on February 12th.*
 
-| Date         | Time  | Event                                                 |
-|--------------|-------|-------------------------------------------------------|
-| 16th October | 3-4pm | Dataset introduction & Python basics for storytelling |
-| 16th October | 4-5pm | R workshop by Warwick Statistics Society              |
-| 16th October | 5-6pm | In person guidance                                    |
-| 16th October | 6pm   | Free pizza                                            |
-| 23rd October | 6pm   | Submission deadline                                   |
+| Date     | Time  | Event                            |
+|----------|-------|----------------------------------|
+| 12th Feb | 3-4pm | Introduction to Machine Learning |
+| 12th Feb | 4-5pm | Sample notebook presentation     |
+| 12th Feb | 5-6pm | In person guidance               |
+| 12th Feb | 6pm   | Free pizza                       |
+| 22nd Feb | 6pm   | Online drop-in session           |
+| 26th Feb | 6pm   | Submission deadline              |
 
 ## Competition Details
 
