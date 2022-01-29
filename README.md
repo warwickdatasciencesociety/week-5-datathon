@@ -51,7 +51,7 @@ The event will take place in [S0.11](https://warwick.ac.uk/services/sg/spa/centr
 
 ### Problem Statement
 
-Will be published on October 16th.
+The problem statement and the dataset will be published on February 12th 2022.
 
 ### Resources
 
