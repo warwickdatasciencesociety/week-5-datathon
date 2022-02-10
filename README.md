@@ -1,8 +1,10 @@
-# Week 5 ML Hackathon
+# Movie Mania Machine Learning Hackahton
 
 ## Welcome to the Hackathon
 
-*Dataset will be published on February 12th.
+Hello and welcome to the hackathon! This is a beginner friendly event with focus on exploring key machine learning concepts. However, we also welcome more experienced participants to join. More experienced participants will have the opportunity to go beyond the basics covered in our teaching sessions. We will not hold you back when it comes to model complexity, data pre-processing and feature engineering. If you don't know what all these terms mean, don't worry we will explain everything in the teaching sessions.
+
+This hackathon will span over 2 weeks. On Saturday February 12th, we will hold 2 teaching sessions on explorative data analysis and supervised learning. We will also release the competition dataset and a sample solution on that day. Participants then have 2 weeks to make a submission. About 1 week prior to the submission deadline we will host an online drop in session where you can ask for feedback. Throughout the 2 weeks you will always have the opportunity to ask for help on the hackathon teams channel.
 
 *Spotted a mistake, dead link, or have suggestions for improvements? Message us using the [links below](#contact).*
 
