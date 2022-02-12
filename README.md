@@ -1,4 +1,4 @@
-# Movie Mania Machine Learning Hackahton
+# Movie Mania Machine Learning Hackathon
 
 ## Welcome to the Hackathon
 
