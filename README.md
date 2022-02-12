@@ -29,8 +29,7 @@ This hackathon will span over 2 weeks. On Saturday February 12th, we will hold 2
 ### Important First Steps
 
 1. Make sure you have registered on the [Google form](https://forms.gle/Mdb7qhXZWdPEABdz7). Otherwise, you will not be invited/accepted to the Microsoft Teams group.
-2. Join the [Week 5 ML Hackathon Teams Group]() and turn on notifications to stay up to date.
-3. Click 'Going' on the [Facebook event]() and invite your friends if you want.
+2. Join the [Week 5 ML Hackathon Teams Group](https://teams.microsoft.com/l/team/19%3auXK62O3WcVOBQ59UKFj2N_Vxe27fHAocyp47zv4bR2Y1%40thread.tacv2/conversations?groupId=57fa086f-6c54-41cc-8b84-db8b52ae428b&tenantId=09bacfbd-47ef-4465-9265-3546f2eaf6bc) and turn on notifications to stay up to date.
 
 All other relevant details should be available on this page. If you have any questions feel free to reach out by using the contact links [below](#contact). Viel Spass!
 
@@ -53,15 +52,20 @@ The event will take place in [S0.11](https://warwick.ac.uk/services/sg/spa/centr
 
 ### Problem Statement
 
-The problem statement and the dataset will be published on February 12th 2022.
+Predict the box office revenue based on the movie features of the IMDB dataset. Make sure to include an EDA before your modelling section.
 
 ### Resources
 
-- **[Google colab]() skeleton code**
+- **[Sample ML notebook](https://colab.research.google.com/drive/1eStgnzjQWyeyMEloIXIQMnU1T5MQ6GCe?usp=sharing)**
+- [Sample Pandas and Matplot lib notebook](https://colab.research.google.com/drive/161cr-98PaHsSW_-BuURWwAo4eYXWHy33?usp=sharing) to be used for the EDA part of the ML notebook
 
 ### Submission
 
+Please send a copy of your notebook to [hackathon@wdss.io](mailto:hackathon@wdss.io).
+
 ### Judging and Winning
+
+We will judge your submission based on the quality of the notebook as well as how well your regression model performs.
 
 The winner/winning team will receive a shoutout on our [social media](#contact) accounts (including LinkedIn if you wish so). We will also link to your solution from this [GitHub](https://github.com/warwickdatasciencesociety) page.
 
